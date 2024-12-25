@@ -1,4 +1,4 @@
-import { faBars, faCreditCard, faGaugeHigh, faLeftRight, faMoneyBill, faRightFromBracket, faRightToBracket, faUser } from '@fortawesome/free-solid-svg-icons'
+import { faBars, faCreditCard, faGaugeHigh, faLeftRight, faMoneyBill, faRightToBracket, faUser } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
