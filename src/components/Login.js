@@ -12,7 +12,7 @@ const Login = () => {
                                 Welcome Havi Bank
                             </h2>
 
-                            <p class="text-sm mt-12 text-gray-800">Don't have an account <Link class="text-blue-600 font-semibold hover:underline ml-1"><Link to='new-account'>New Account</Link></Link></p>
+                            <p class="text-sm mt-12 text-gray-800">Don't have an account <Link class="text-blue-600 font-semibold hover:underline ml-1"><Link to='/new-account'>New Account</Link></Link></p>
                         </div>
 
                         <form class="max-w-md md:ml-auto w-full">
