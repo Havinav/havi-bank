@@ -5,6 +5,7 @@ import Login from './components/Login';
 import Dashboard from './components/Dashboard';
 import Transfer from './components/Transfer';
 import User from './components/User';
+import NewAccount from './components/NewAccount';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
          <Route path='/dashboard' element={<Dashboard />} />
          <Route path='/tarnsfer' element={<Transfer />} />
          <Route path='/user' element={<User />} />
+         <Route path='/new-account' element={<NewAccount />} />
       </Routes>
     </div>
   );
